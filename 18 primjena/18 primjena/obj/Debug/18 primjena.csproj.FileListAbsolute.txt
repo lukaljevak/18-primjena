@@ -1,0 +1,11 @@
+C:\Users\Učenik\source\repos\18 primjena\18 primjena\obj\Debug\18 primjena.csproj.AssemblyReference.cache
+C:\Users\Učenik\source\repos\18 primjena\18 primjena\obj\Debug\_18_primjena.Form1.resources
+C:\Users\Učenik\source\repos\18 primjena\18 primjena\obj\Debug\_18_primjena.FormaText.resources
+C:\Users\Učenik\source\repos\18 primjena\18 primjena\obj\Debug\_18_primjena.Properties.Resources.resources
+C:\Users\Učenik\source\repos\18 primjena\18 primjena\obj\Debug\18 primjena.csproj.GenerateResource.cache
+C:\Users\Učenik\source\repos\18 primjena\18 primjena\obj\Debug\18 primjena.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\18 primjena\18 primjena\bin\Debug\18 primjena.exe.config
+C:\Users\Učenik\source\repos\18 primjena\18 primjena\bin\Debug\18 primjena.exe
+C:\Users\Učenik\source\repos\18 primjena\18 primjena\bin\Debug\18 primjena.pdb
+C:\Users\Učenik\source\repos\18 primjena\18 primjena\obj\Debug\18 primjena.exe
+C:\Users\Učenik\source\repos\18 primjena\18 primjena\obj\Debug\18 primjena.pdb
